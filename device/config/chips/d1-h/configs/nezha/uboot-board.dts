@@ -229,7 +229,7 @@
 	screen1_output_scan      = <0>;
 	screen1_output_aspect_ratio = <8>;
 
-	dev0_output_type         = <3>;
+	dev0_output_type         = <4>;
 	dev0_output_mode         = <10>;
 	dev0_screen_id           = <0>;
 	dev0_do_hpd              = <1>;
